@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miItem1"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Расписание"
+        android:visible="true" />
+
+
+    <item
+        android:id="@+id/miItem2"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="История"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/miItem3"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Настройки"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/miItem4"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Пасажиры"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/miItem5"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Статистика"
+        android:visible="true" />
+    <item
+        android:id="@+id/miItem6"
+        android:enabled="true"
+        android:icon="@android:drawable/stat_notify_voicemail"
+        android:title="Автобусы"
+        android:visible="true" />
+    <item
+        android:id="@+id/miItem7"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="Список администраторов"
+        android:visible="true" />
+    <item
+        android:id="@+id/miItem8"
+        android:enabled="true"
+        android:icon="?attr/actionModePasteDrawable"
+        android:title="Продажа билетов"
+        android:visible="true" />
+
+
+
+"
+
+</menu>
